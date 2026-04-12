@@ -40,7 +40,11 @@ export const Footer = () => {
           <div className="lg:col-span-2">
             <div className="flex items-center gap-2 mb-6">
               <div className="w-10 h-10 rounded-lg bg-gradient-primary flex items-center justify-center">
-                <span className="text-primary-foreground font-heading font-bold text-xl">J</span>
+                <img
+                src="./jsol.jpeg"
+                alt="Jothi Software Logo"
+                className="w-full h-full object-cover"
+              />
               </div>
               <span className="text-xl font-heading font-bold text-foreground">
                 Jothi Software

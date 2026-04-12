@@ -41,8 +41,7 @@ export const Contact = () => {
               </div>
               <div>
                 <h4 className="font-heading font-semibold text-foreground mb-1">Email Us</h4>
-                <p className="text-muted-foreground">contact@jothisoftware.com</p>
-                <p className="text-muted-foreground">info@jothisoftware.com</p>
+                <p className="text-muted-foreground">jssolution247@outlook.com</p>
               </div>
             </div>
 
@@ -52,8 +51,7 @@ export const Contact = () => {
               </div>
               <div>
                 <h4 className="font-heading font-semibold text-foreground mb-1">Call Us</h4>
-                <p className="text-muted-foreground">+91 98765 43210</p>
-                <p className="text-muted-foreground">+91 87654 32109</p>
+                <p className="text-muted-foreground">+91 89253 50147</p>
               </div>
             </div>
 
@@ -64,8 +62,8 @@ export const Contact = () => {
               <div>
                 <h4 className="font-heading font-semibold text-foreground mb-1">Visit Us</h4>
                 <p className="text-muted-foreground">
-                  123 Digital Avenue, Tech Park<br />
-                  Chennai, Tamil Nadu 600001
+                  No.10, Bethesda Hospital Road<br />
+                  Ambur, Tamil Nadu 635802
                 </p>
               </div>
             </div>

@@ -22,10 +22,23 @@ export const Navbar = () => {
     >
       <div className="container mx-auto px-4 py-4">
         <div className="flex items-center justify-between">
-          <a href="#" className="flex items-center gap-2">
+          {/* <a href="#" className="flex items-center gap-2">
             <div className="w-10 h-10 rounded-lg bg-gradient-primary flex items-center justify-center">
               <span className="text-primary-foreground font-heading font-bold text-xl">J</span>
             </div>
+            <span className="text-xl font-heading font-bold text-foreground">
+              Jothi<span className="text-gradient"> Software</span>
+            </span>
+          </a> */}
+          <a href="#" className="flex items-center gap-2">
+            <div className="w-10 h-10 rounded-lg overflow-hidden flex items-center justify-center">
+              <img
+                src="./jsol.jpeg"
+                alt="Jothi Software Logo"
+                className="w-full h-full object-cover"
+              />
+            </div>
+
             <span className="text-xl font-heading font-bold text-foreground">
               Jothi<span className="text-gradient"> Software</span>
             </span>
