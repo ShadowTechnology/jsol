@@ -41,7 +41,7 @@ export const Contact = () => {
               </div>
               <div>
                 <h4 className="font-heading font-semibold text-foreground mb-1">Email Us</h4>
-                <p className="text-muted-foreground">jssolution247@outlook.com</p>
+                <p className="text-muted-foreground">jssolution247@gmail.com</p>
               </div>
             </div>
 

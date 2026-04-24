@@ -47,7 +47,7 @@ export const Footer = () => {
               />
               </div>
               <span className="text-xl font-heading font-bold text-foreground">
-                Jothi Software
+                Jothi Software Solution
               </span>
             </div>
             <p className="text-muted-foreground mb-6 max-w-sm">

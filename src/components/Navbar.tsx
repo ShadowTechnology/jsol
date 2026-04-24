@@ -40,7 +40,7 @@ export const Navbar = () => {
             </div>
 
             <span className="text-xl font-heading font-bold text-foreground">
-              Jothi<span className="text-gradient"> Software</span>
+              Jothi<span className="text-gradient"> Software Solution</span>
             </span>
           </a>
 
